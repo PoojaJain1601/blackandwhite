@@ -17,4 +17,3 @@ urllib3==2.2.1
 Werkzeug==3.0.2
 zipp==3.18.1
 gunicorn==19.7.1
-Python==3.8.0
